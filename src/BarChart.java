@@ -1,14 +1,13 @@
 import java.util.Scanner;
-import java.io.*;
 public class BarChart {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
-        System.out.println("How many inputs");
+        System.out.println("How many bars needed2");
         int a =sc.nextInt();
         int arr[]=new int [a];
         for (int i =0; i< arr.length; i++){
-            System.out.println("Okay now Enter:");
+            System.out.println("Okay now Enter numbers:");
             arr[i]= sc.nextInt();
         }
 
