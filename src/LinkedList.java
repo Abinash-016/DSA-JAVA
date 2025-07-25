@@ -3,10 +3,9 @@ import java.util.*;
 public class LinkedList {
     class LL{
         class Node{
-            String data;
+            int data;
             Node next;
-
-            Node(String data){
+            Node(int  data){
                 this.data=data;
                 this.next=null;
             }
