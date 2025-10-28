@@ -1,4 +1,4 @@
-package Recursion;
+package Striver_AtoZ.Recursion;
 
 public class recursion2 {
     public static void printSum(int i, int n ,int sum){

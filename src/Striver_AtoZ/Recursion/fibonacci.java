@@ -1,4 +1,4 @@
-package Recursion;
+package Striver_AtoZ.Recursion;
 
 public class fibonacci {
 

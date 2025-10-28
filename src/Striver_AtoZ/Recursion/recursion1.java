@@ -1,4 +1,4 @@
-package Recursion;
+package Striver_AtoZ.Recursion;
 
 public class recursion1 {
     public static void printNumb(int n ){

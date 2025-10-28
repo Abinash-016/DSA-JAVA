@@ -1,4 +1,4 @@
-package recursion_New;
+package Striver_AtoZ.recursion_New;
 
 public class message {
     public static void main(String[] args) {

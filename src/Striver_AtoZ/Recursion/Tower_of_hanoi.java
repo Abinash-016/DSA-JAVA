@@ -1,4 +1,4 @@
-package Recursion;
+package Striver_AtoZ.Recursion;
 import java.util.Scanner;
 
 public class Tower_of_hanoi {
